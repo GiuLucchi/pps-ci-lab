@@ -4,6 +4,6 @@ repositories {
     mavenCentral()
 }
 
-dependecies {
+dependencies {
     compile 'it.unibo.alice.tuprolog:tuprolog:3.2.1'
 }
