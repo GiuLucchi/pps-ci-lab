@@ -1,3 +1,3 @@
 object HelloSCala extends App{
-  println("Hello SCala")
+  println("Hello Scala")
 }
